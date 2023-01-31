@@ -23,3 +23,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+### Entre em contato:
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermebmori/)](https://www.linkedin.com/in/guilhermebmori/)
+[![Gmail Badge](https://img.shields.io/badge/-guilhermebmori@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermebmori@hotmail.com)](mailto:guilhermebmori@hotmail.com)
+<hr>
