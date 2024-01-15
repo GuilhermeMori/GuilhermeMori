@@ -22,6 +22,7 @@
 
 ### Estudando no momento:
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white&labelColor=4FC08D)
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=Python&logoColor=white&labelColor=FFD43B)
 
 ### Ferramentas:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&labelColor=0D1117)
